@@ -1,16 +1,70 @@
-# one_project
+# 🇯🇵 Japanese Learning App (Toku)
 
-A new Flutter project.
+A mobile application built with **Flutter** to help users learn basic Japanese vocabulary in a fun and interactive way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+This app provides categorized Japanese words and phrases with audio pronunciation to improve learning experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Users can explore different categories such as:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Numbers 🔢
+* Family Members 👨‍👩‍👧‍👦
+* Colors 🎨
+* Common Phrases 💬
+
+Each item includes:
+
+* Japanese name
+* English translation
+* Audio pronunciation 🔊
+
+---
+
+## ✨ Features
+
+* 🎯 Simple and clean UI
+* 🔊 Audio playback for each word
+* 📂 Organized categories
+* ♻️ Reusable components
+* ⚡ Smooth navigation between screens
+* 📜 Efficient list rendering باستخدام ListView.builder
+
+---
+
+## 🛠️ Technologies Used
+
+* Flutter
+* Dart
+* Audioplayers package
+
+---
+
+## 🧠 Architecture
+
+The project follows a clean structure:
+
+* **Models** → Data representation (ItemModel, Family)
+* **Components** → Reusable UI widgets
+* **Screens** → App pages (Home, Categories, Details)
+
+
+
+---
+
+## 🎯 Future Improvements
+
+* 🌙 Dark Mode
+* 🔍 Search functionality
+* ❤️ Favorites system
+* 🌐 API integration
+
+---
+
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a star ⭐
+
